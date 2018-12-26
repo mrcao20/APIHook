@@ -1,0 +1,4 @@
+LIBRARY "APIHook"
+EXPORTS
+	InstallHook
+	UninstallHook
